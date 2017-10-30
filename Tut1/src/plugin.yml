@@ -1,0 +1,11 @@
+name: Tutorial2
+description: Says hello! And gives items
+version: 1.0.0
+main: me.piete.Tut2.Main
+commands:
+  please:
+    description: Gives an axe and wool
+    aliases: [plz]
+  hello:
+    description: says hello to the player
+    aliases: [h,hey,hi]

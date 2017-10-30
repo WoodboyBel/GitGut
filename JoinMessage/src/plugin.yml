@@ -1,0 +1,4 @@
+name: CustomJoinMessage
+version: 1.0.0
+main: me.piete.JoinMessage.Main
+description: custom join message

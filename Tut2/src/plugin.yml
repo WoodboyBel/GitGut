@@ -1,0 +1,8 @@
+name: Tutorial
+description: Says hello!
+version: 1.0.0
+main: me.piete.Tut1.Main
+commands:
+  hello:
+    description: says hello to the player
+    aliases: [h,hey,hi]

@@ -1,0 +1,8 @@
+name: Tutorial 3
+description: Teleports player to lobby and gives potions effects
+version: 1.0.0
+main: me.piete.Tut3.Main
+commands:
+  lobby:
+    description: teleports to lobby
+    aliases: l
